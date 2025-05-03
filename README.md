@@ -40,8 +40,7 @@
 
 <img align="right" alt="Coding" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif">
 
-![Nyoba](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif
-)
+![Nyoba](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" align="right" alt="Coding">
 
