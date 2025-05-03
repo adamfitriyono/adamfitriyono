@@ -1,26 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&pause=1000&color=195DF0&width=700&height=50&lines=Hello+World👋,+I'm+Adam+Fitriyono;Aspiring+Data+Analyst+-+Learning+Excel;Freelance+Web+Developer)](https://git.io/typing-svg)
 
 ![Adam Fitriyono](img/Lingkedin_banner3.jpg)
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<!-- <img src="{BadgeURLHere}" /> -->
-<!-- ![image]({BadgeURLHere}) -->
-<!--
-🌱 I’m currently learning **Excel** for Data Analyst
-
-##### 💻Tech Stack:
-
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 <!-- ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) -->
 <!-- ![Fiver](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white) -->
 <!-- ![Upwork](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) -->
 <!-- ![Upwork](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) -->
-<!-- ![Upwork]() -->
-<!-- ![Upwork]() -->
 <!-- ![Upwork]() -->
 
 <!-- https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white -->
@@ -57,10 +42,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adam_ftrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfitriyono) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](adamfitriyono@gmail.com)
 
-<!-- ##### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamfitriyono&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamfitriyono&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamfitriyono/adamfitriyono/output/pacman-contribution-graph-dark.svg">
