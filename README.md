@@ -1,6 +1,9 @@
-# Hello World, I'm Adam Fitriyono 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&pause=1000&color=195DF0&width=700&height=50&lines=Hello+World👋,+I'm+Adam+Fitriyono;Aspiring+Data+Analyst+-+Learning+Excel;Freelance+Web+Developer)](https://git.io/typing-svg)
+
 
 ![Adam Fitriyono](img/Lingkedin_banner3.jpg)
+
+
 
 <!-- <img src="{BadgeURLHere}" /> -->
 <!-- ![image]({BadgeURLHere}) -->
@@ -49,14 +52,14 @@
 #### 📊 Data Analyst:
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-#### 🌐 Freelace Web Developer:
+#### 🌐 Freelance Web Developer:
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 
 
 
 #### 🔗 Lets Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adam_ftrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfitriyono) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adamfitriyono@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adam_ftrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfitriyono) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](adamfitriyono@gmail.com) 
 
 <!-- ##### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamfitriyono&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
