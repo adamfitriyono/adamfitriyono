@@ -2,12 +2,7 @@
 
 ![Adam Fitriyono](img/Lingkedin_banner3.jpg)
 
-<img align="right" alt="Coding" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif">
 
-![Nyoba](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif
-)
-
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" align="right" alt="Coding">
 
 
 <!-- <img src="{BadgeURLHere}" /> -->
@@ -42,6 +37,13 @@
 <!-- https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white -->
 <!-- https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue -->
 <!--     https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white -->
+
+<img align="right" alt="Coding" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif">
+
+![Nyoba](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif
+)
+
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" align="right" alt="Coding">
 
 ### 💫 About Me:
 
