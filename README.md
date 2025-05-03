@@ -3,6 +3,7 @@
 
 ![Adam Fitriyono](img/Lingkedin_banner3.jpg)
 
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 <!-- <img src="{BadgeURLHere}" /> -->
@@ -30,9 +31,8 @@
 <!-- https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white -->
 <!-- https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white -->
 <!-- https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white -->
-<!-- https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white -->
 <!-- https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black -->
-<!-- https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white -->
+
     
 <!-- https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white -->
 <!--     https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white -->
@@ -53,13 +53,14 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 #### 🌐 Freelance Web Developer:
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white) ![Hosting](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 
 
 
 #### 🔗 Lets Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adam_ftrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfitriyono) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](adamfitriyono@gmail.com) 
+
 
 <!-- ##### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamfitriyono&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
