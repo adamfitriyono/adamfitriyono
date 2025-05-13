@@ -11,13 +11,12 @@
 <!-- https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white -->
 <!-- https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white -->
 <!-- https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white -->
-<!-- https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white -->
 <!-- https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black -->
 
 <!-- https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white -->
 <!--     https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white -->
 <!-- https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white -->
-<!-- https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue -->
+
 <!--     https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white -->
 
 ### 💫 About Me:
@@ -32,7 +31,9 @@
 
 #### 📊 Data Analyst:
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<!-- ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) -->
 
 <!-- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) -->
 
