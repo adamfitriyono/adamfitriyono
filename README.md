@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&pause=1000&color=195DF0&width=700&height=50&lines=Hello+World👋,+I'm+Adam+Fitriyono;Aspiring+Data+Analyst+-+Learning+Excel;Freelance+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&pause=1000&color=195DF0&width=700&height=50&lines=Hello+World👋,+I'm+Adam+Fitriyono;Data+Analyst+-+Learning+Process;Data+Enthusiast+🤗)](https://git.io/typing-svg)
 
 <!-- ![Adam Fitriyono](img/Lingkedin_banner3.jpg) -->
+
+<img src="https://camo.githubusercontent.com/a55ca953c83f1830882edb7e7a84d4417f9435002dc0eaeae4aa22be9112415c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3663333839335f36306230326635373739616234613233396137313566343162613661303037657e6d76325f645f353030305f313434375f735f322e676966" alt="Deskripsi"/>
+
 
 <!-- ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) -->
 <!-- ![Fiver](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white) -->
