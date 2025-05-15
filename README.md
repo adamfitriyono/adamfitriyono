@@ -26,10 +26,9 @@
 
 ### 💫 About Me:
 
-#### 🎯 Aspiring Data Analyst | 💻 Freelance Web Developer
+#### 🎯 Aspiring Data Analyst
 
-🌱 Currently learning **Excel** as part of my journey to become a Data Analyst<br>
-🌐 Building websites using **WordPress and Elementor** for clients<br>
+🌱 Currently starting to learn **Excel** as part of my journey to become a Data Analyst<br>
 🚀 Passionate about **tech, data, and continuous learning**
 
 ### 💻Tech Stack
