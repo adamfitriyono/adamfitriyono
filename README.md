@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&pause=1000&color=195DF0&width=700&height=50&lines=Hello+World👋,+I'm+Adam+Fitriyono;Data+Analyst+-+Learning+Process;Data+Enthusiast+🤗)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&pause=1000&color=195DF0&width=700&height=50&lines=Hello+World👋,+I'm+Adam+Fitriyono;Frontend+Web+Developer+-+Learning+Process;Data+Enthusiast+🤗)](https://git.io/typing-svg)
 
 <!-- ![Adam Fitriyono](img/Lingkedin_banner3.jpg) -->
 
@@ -26,9 +26,9 @@
 
 ### 💫 About Me:
 
-#### 🎯 Aspiring Data Analyst
+#### 🎯 Aspiring Frontend Web Developer
 
-🌱 Currently starting to learn **Excel** as part of my journey to become a Data Analyst<br>
+🌱 Currently starting to learn **HTML** as part of my journey to become a Frontend Web<br>
 🚀 Passionate about **tech, data, and continuous learning**
 
 ### 💻Tech Stack
